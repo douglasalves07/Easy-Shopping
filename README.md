@@ -18,6 +18,10 @@ O projeto se adapta a diferentes tamanhos de tela:
 * **Desktop:** Layout horizontal com menu de navegação completo.
 * **Mobile:** Layout vertical otimizado para toque e leitura em telas pequenas (Breakpoints configurados via Media Queries).
 
+Desktop | Mobile:
+
+<img src="https://github.com/douglasalves07/Easy-Shopping/blob/master/assets/Projeto%20Easy%20shopping%20-%20Layout.png?raw=true" />
+
 ### 🛠 Tecnologias Utilizadas
 
 * **HTML5:** Estruturação semântica.
